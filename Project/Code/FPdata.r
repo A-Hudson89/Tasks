@@ -1,0 +1,7 @@
+setwd("C:\\Users\\abh00\\OneDrive\\Desktop\\Evolution\\Tasks\\Project\\Code")
+DataRate <- read.csv('C:\\Users\\abh00\\OneDrive\\Desktop\\Evolution\\Tasks\\Project\\Data\\Rate.csv', header = TRUE, stringsAsFactors = FALSE)
+DataDuration <- read.csv('C:\\Users\\abh00\\OneDrive\\Desktop\\Evolution\\Tasks\\Project\\Data\\Duration.csv', header = TRUE, stringsAsFactors = FALSE)
+DataProbability <- read.csv('C:\\Users\\abh00\\OneDrive\\Desktop\\Evolution\\Tasks\\Project\\Data\\Probability.csv', header = TRUE, stringsAsFactors = FALSE)
+head(DataRate)
+ncol(DataRate)
+nrow(DataRate)
