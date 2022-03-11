@@ -1,0 +1,18 @@
+#NEXUS
+[created by the 10kTree Website - http://10kTrees.fas.harvard.edu]
+BEGIN TREES;
+translate
+1 Allocebus_trichotis,
+2 Arctocebus_aureus;
+tree 1 = (2:0.308390,1:0.290977);
+tree 2 = (2:0.309631,1:0.263580);
+tree 3 = (2:0.308308,1:0.291056);
+tree 4 = (1:0.296027,2:0.312525);
+tree 5 = (1:0.284095,2:0.329303);
+tree 6 = (1:0.275747,2:0.334235);
+tree 7 = (1:0.289650,2:0.342067);
+tree 8 = (1:0.279757,2:0.299079);
+tree 9 = (1:0.307374,2:0.328804);
+tree 10 = (1:0.274110,2:0.333393);
+END;<br />
+<b>Warning</b>:  session_write_close() expects exactly 0 parameters, 1 given in <b>/var/www/10ktrees.nunn-lab.org/sendTreesToUser.php</b> on line <b>98</b><br />
